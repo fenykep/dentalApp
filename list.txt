@@ -1,0 +1,4 @@
+file 'vids/C3.avi'
+file 'vids/None.avi'
+file 'vids/B2.avi'
+file 'vids/None.avi'
